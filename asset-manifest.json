@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.5792fa42.chunk.css",
+    "main.js": "/portfolio/static/js/main.b0431c44.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.b0431c44.chunk.js.map",
+    "runtime-main.js": "/portfolio/static/js/runtime-main.209c2d7e.js",
+    "runtime-main.js.map": "/portfolio/static/js/runtime-main.209c2d7e.js.map",
+    "static/js/2.2b785ff5.chunk.js": "/portfolio/static/js/2.2b785ff5.chunk.js",
+    "static/js/2.2b785ff5.chunk.js.map": "/portfolio/static/js/2.2b785ff5.chunk.js.map",
+    "index.html": "/portfolio/index.html",
+    "precache-manifest.13edb10614c3ecc9f61deb7795518c6a.js": "/portfolio/precache-manifest.13edb10614c3ecc9f61deb7795518c6a.js",
+    "service-worker.js": "/portfolio/service-worker.js",
+    "static/css/main.5792fa42.chunk.css.map": "/portfolio/static/css/main.5792fa42.chunk.css.map",
+    "static/js/2.2b785ff5.chunk.js.LICENSE.txt": "/portfolio/static/js/2.2b785ff5.chunk.js.LICENSE.txt",
+    "static/media/gainz-app-pic.PNG": "/portfolio/static/media/gainz-app-pic.8542b367.PNG",
+    "static/media/gainz-app-vid.png": "/portfolio/static/media/gainz-app-vid.afd09fc2.png",
+    "static/media/ipa-app-pic.PNG": "/portfolio/static/media/ipa-app-pic.864b424a.PNG",
+    "static/media/ipa-app-vid.png": "/portfolio/static/media/ipa-app-vid.68e55f37.png",
+    "static/media/myPhoto.jpg": "/portfolio/static/media/myPhoto.1e5c3b8f.jpg",
+    "static/media/nasa-app-pic.PNG": "/portfolio/static/media/nasa-app-pic.7939adf8.PNG",
+    "static/media/nasa-app-vid.png": "/portfolio/static/media/nasa-app-vid.509b0120.png",
+    "static/media/resume-pic.PNG": "/portfolio/static/media/resume-pic.a4b67f64.PNG",
+    "static/media/App.css": "/portfolio/static/media/tree.7255c36c.jpeg",
+    "static/media/weather-app-pic.PNG": "/portfolio/static/media/weather-app-pic.468b9548.PNG",
+    "static/media/weather-app-vid.png": "/portfolio/static/media/weather-app-vid.7ee1526b.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.209c2d7e.js",
+    "static/js/2.2b785ff5.chunk.js",
+    "static/css/main.5792fa42.chunk.css",
+    "static/js/main.b0431c44.chunk.js"
+  ]
+}
