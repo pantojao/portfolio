@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "./static/css/main.dbbff84a.chunk.css",
-    "main.js": "./static/js/main.04e39f97.chunk.js",
-    "main.js.map": "./static/js/main.04e39f97.chunk.js.map",
+    "main.js": "./static/js/main.b52a71c4.chunk.js",
+    "main.js.map": "./static/js/main.b52a71c4.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.916853f0.js",
     "runtime-main.js.map": "./static/js/runtime-main.916853f0.js.map",
     "static/js/2.322a53dc.chunk.js": "./static/js/2.322a53dc.chunk.js",
     "static/js/2.322a53dc.chunk.js.map": "./static/js/2.322a53dc.chunk.js.map",
     "index.html": "./index.html",
-    "precache-manifest.f9c0a02874fb4e277109ce20dd6ab7b7.js": "./precache-manifest.f9c0a02874fb4e277109ce20dd6ab7b7.js",
+    "precache-manifest.75e5c5a1337b1525eaac671eb135d4eb.js": "./precache-manifest.75e5c5a1337b1525eaac671eb135d4eb.js",
     "service-worker.js": "./service-worker.js",
     "static/css/main.dbbff84a.chunk.css.map": "./static/css/main.dbbff84a.chunk.css.map",
     "static/js/2.322a53dc.chunk.js.LICENSE.txt": "./static/js/2.322a53dc.chunk.js.LICENSE.txt",
@@ -19,6 +19,8 @@
     "static/media/myPhoto.jpg": "./static/media/myPhoto.1e5c3b8f.jpg",
     "static/media/nasa-app-pic.PNG": "./static/media/nasa-app-pic.7939adf8.PNG",
     "static/media/nasa-app-vid.png": "./static/media/nasa-app-vid.509b0120.png",
+    "static/media/pac-man-image.PNG": "./static/media/pac-man-image.e19ff045.PNG",
+    "static/media/pac-man-search.png": "./static/media/pac-man-search.b63f5667.png",
     "static/media/resume-pic.PNG": "./static/media/resume-pic.a4b67f64.PNG",
     "static/media/App.css": "./static/media/tree.7255c36c.jpeg",
     "static/media/weather-app-pic.PNG": "./static/media/weather-app-pic.468b9548.PNG",
@@ -28,6 +30,6 @@
     "static/js/runtime-main.916853f0.js",
     "static/js/2.322a53dc.chunk.js",
     "static/css/main.dbbff84a.chunk.css",
-    "static/js/main.04e39f97.chunk.js"
+    "static/js/main.b52a71c4.chunk.js"
   ]
 }

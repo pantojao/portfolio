@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6e4535cd0a05c6b83c8aca55e8086166",
+    "revision": "801c18bcfd5677b8b05152336a2eaea8",
     "url": "./index.html"
   },
   {
-    "revision": "41301b407903f3dea972",
+    "revision": "fe8d37345810a1697aa3",
     "url": "./static/css/main.dbbff84a.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "./static/js/2.322a53dc.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "41301b407903f3dea972",
-    "url": "./static/js/main.04e39f97.chunk.js"
+    "revision": "fe8d37345810a1697aa3",
+    "url": "./static/js/main.b52a71c4.chunk.js"
   },
   {
     "revision": "610a38b7b5a7cb7b2d5e",
@@ -50,6 +50,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "509b0120e1341461ef0ef9f1ae59746b",
     "url": "./static/media/nasa-app-vid.509b0120.png"
+  },
+  {
+    "revision": "e19ff045388e7f58850d1165f4729e73",
+    "url": "./static/media/pac-man-image.e19ff045.PNG"
+  },
+  {
+    "revision": "b63f5667c32f5846f7b79775d6c0fb89",
+    "url": "./static/media/pac-man-search.b63f5667.png"
   },
   {
     "revision": "a4b67f643f7c1181c5d52498dda77758",
