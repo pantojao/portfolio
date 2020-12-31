@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "./static/css/main.dbbff84a.chunk.css",
-    "main.js": "./static/js/main.b52a71c4.chunk.js",
-    "main.js.map": "./static/js/main.b52a71c4.chunk.js.map",
+    "main.css": "./static/css/main.2642a698.chunk.css",
+    "main.js": "./static/js/main.444af93b.chunk.js",
+    "main.js.map": "./static/js/main.444af93b.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.916853f0.js",
     "runtime-main.js.map": "./static/js/runtime-main.916853f0.js.map",
     "static/js/2.322a53dc.chunk.js": "./static/js/2.322a53dc.chunk.js",
     "static/js/2.322a53dc.chunk.js.map": "./static/js/2.322a53dc.chunk.js.map",
     "index.html": "./index.html",
-    "precache-manifest.75e5c5a1337b1525eaac671eb135d4eb.js": "./precache-manifest.75e5c5a1337b1525eaac671eb135d4eb.js",
+    "precache-manifest.c000e344b623126d41512d9a84bc5295.js": "./precache-manifest.c000e344b623126d41512d9a84bc5295.js",
     "service-worker.js": "./service-worker.js",
-    "static/css/main.dbbff84a.chunk.css.map": "./static/css/main.dbbff84a.chunk.css.map",
+    "static/css/main.2642a698.chunk.css.map": "./static/css/main.2642a698.chunk.css.map",
     "static/js/2.322a53dc.chunk.js.LICENSE.txt": "./static/js/2.322a53dc.chunk.js.LICENSE.txt",
     "static/media/gainz-app-pic.PNG": "./static/media/gainz-app-pic.8542b367.PNG",
     "static/media/gainz-app-vid.png": "./static/media/gainz-app-vid.afd09fc2.png",
@@ -29,7 +29,7 @@
   "entrypoints": [
     "static/js/runtime-main.916853f0.js",
     "static/js/2.322a53dc.chunk.js",
-    "static/css/main.dbbff84a.chunk.css",
-    "static/js/main.b52a71c4.chunk.js"
+    "static/css/main.2642a698.chunk.css",
+    "static/js/main.444af93b.chunk.js"
   ]
 }
