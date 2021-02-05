@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3dfd7fb8472762a7bceb8520c359af25",
+    "revision": "2b8c8b953ac6049c482f4caf46481d51",
     "url": "./index.html"
   },
   {
-    "revision": "371c696870354f8404ce",
-    "url": "./static/css/main.cf8de0f7.chunk.css"
+    "revision": "a88bfa5ad611b51755ab",
+    "url": "./static/css/main.ab190a84.chunk.css"
   },
   {
     "revision": "4287f4334cfda34b32ac",
@@ -16,12 +16,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "./static/js/2.23204e4a.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "371c696870354f8404ce",
-    "url": "./static/js/main.fdf757e8.chunk.js"
+    "revision": "a88bfa5ad611b51755ab",
+    "url": "./static/js/main.73846333.chunk.js"
   },
   {
     "revision": "610a38b7b5a7cb7b2d5e",
     "url": "./static/js/runtime-main.916853f0.js"
+  },
+  {
+    "revision": "c1216c25697756e50f6881a1a3931734",
+    "url": "./static/media/Joel_Pantoja_SE.c1216c25.pdf"
   },
   {
     "revision": "8542b367d97716ccbf31762e7b6d1272",
@@ -40,10 +44,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "./static/media/ipa.d03036bf.mp4"
   },
   {
-    "revision": "1e5c3b8f725866ad51a8b384198a12b9",
-    "url": "./static/media/myPhoto.1e5c3b8f.jpg"
-  },
-  {
     "revision": "7939adf8b2e40caa67c557e26971a305",
     "url": "./static/media/nasa-app-pic.7939adf8.PNG"
   },
@@ -60,8 +60,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "./static/media/pacman.a603956a.mp4"
   },
   {
-    "revision": "a4b67f643f7c1181c5d52498dda77758",
-    "url": "./static/media/resume-pic.a4b67f64.PNG"
+    "revision": "be3b9a05f2893b1569a9825315888d76",
+    "url": "./static/media/resume-preview.be3b9a05.PNG"
   },
   {
     "revision": "7255c36c48f6d57b8fca8cff67d32fcb",

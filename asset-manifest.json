@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "./static/css/main.cf8de0f7.chunk.css",
-    "main.js": "./static/js/main.fdf757e8.chunk.js",
-    "main.js.map": "./static/js/main.fdf757e8.chunk.js.map",
+    "main.css": "./static/css/main.ab190a84.chunk.css",
+    "main.js": "./static/js/main.73846333.chunk.js",
+    "main.js.map": "./static/js/main.73846333.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.916853f0.js",
     "runtime-main.js.map": "./static/js/runtime-main.916853f0.js.map",
     "static/js/2.23204e4a.chunk.js": "./static/js/2.23204e4a.chunk.js",
     "static/js/2.23204e4a.chunk.js.map": "./static/js/2.23204e4a.chunk.js.map",
     "index.html": "./index.html",
-    "precache-manifest.b363e9a0eaefd342e4baebe04ff3f7e6.js": "./precache-manifest.b363e9a0eaefd342e4baebe04ff3f7e6.js",
+    "precache-manifest.69b7637607b0d85c0710c270a1fc5813.js": "./precache-manifest.69b7637607b0d85c0710c270a1fc5813.js",
     "service-worker.js": "./service-worker.js",
-    "static/css/main.cf8de0f7.chunk.css.map": "./static/css/main.cf8de0f7.chunk.css.map",
+    "static/css/main.ab190a84.chunk.css.map": "./static/css/main.ab190a84.chunk.css.map",
     "static/js/2.23204e4a.chunk.js.LICENSE.txt": "./static/js/2.23204e4a.chunk.js.LICENSE.txt",
+    "static/media/Joel_Pantoja_SE.pdf": "./static/media/Joel_Pantoja_SE.c1216c25.pdf",
     "static/media/gainz-app-pic.PNG": "./static/media/gainz-app-pic.8542b367.PNG",
     "static/media/gainz.mp4": "./static/media/gainz.c250a23b.mp4",
     "static/media/ipa-app-pic.PNG": "./static/media/ipa-app-pic.864b424a.PNG",
     "static/media/ipa.mp4": "./static/media/ipa.d03036bf.mp4",
-    "static/media/myPhoto.jpg": "./static/media/myPhoto.1e5c3b8f.jpg",
     "static/media/nasa-app-pic.PNG": "./static/media/nasa-app-pic.7939adf8.PNG",
     "static/media/nasa.mp4": "./static/media/nasa.9d2a5806.mp4",
     "static/media/pac-man-image.PNG": "./static/media/pac-man-image.e19ff045.PNG",
     "static/media/pacman.mp4": "./static/media/pacman.a603956a.mp4",
-    "static/media/resume-pic.PNG": "./static/media/resume-pic.a4b67f64.PNG",
+    "static/media/resume-preview.PNG": "./static/media/resume-preview.be3b9a05.PNG",
     "static/media/App.css": "./static/media/tree.7255c36c.jpeg",
     "static/media/weather-app-pic.PNG": "./static/media/weather-app-pic.468b9548.PNG",
     "static/media/weather.mp4": "./static/media/weather.e0f9f5e6.mp4"
@@ -29,7 +29,7 @@
   "entrypoints": [
     "static/js/runtime-main.916853f0.js",
     "static/js/2.23204e4a.chunk.js",
-    "static/css/main.cf8de0f7.chunk.css",
-    "static/js/main.fdf757e8.chunk.js"
+    "static/css/main.ab190a84.chunk.css",
+    "static/js/main.73846333.chunk.js"
   ]
 }
