@@ -1,31 +1,35 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b58dee523f4aa29e3697b955b288c91a",
+    "revision": "67b58a0852a2218f92030e83d9271391",
     "url": "./index.html"
   },
   {
-    "revision": "a88bfa5ad611b51755ab",
-    "url": "./static/css/main.ab190a84.chunk.css"
+    "revision": "1eb0fba7b2f5475e708c",
+    "url": "./static/css/main.c6977f62.chunk.css"
   },
   {
-    "revision": "4287f4334cfda34b32ac",
-    "url": "./static/js/2.23204e4a.chunk.js"
+    "revision": "54c41c8e51028fd89123",
+    "url": "./static/js/2.8efeddbd.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "./static/js/2.23204e4a.chunk.js.LICENSE.txt"
+    "url": "./static/js/2.8efeddbd.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "a88bfa5ad611b51755ab",
-    "url": "./static/js/main.73846333.chunk.js"
+    "revision": "1eb0fba7b2f5475e708c",
+    "url": "./static/js/main.e90a28f1.chunk.js"
   },
   {
     "revision": "610a38b7b5a7cb7b2d5e",
     "url": "./static/js/runtime-main.916853f0.js"
   },
   {
-    "revision": "c1216c25697756e50f6881a1a3931734",
-    "url": "./static/media/Joel_Pantoja_SE.c1216c25.pdf"
+    "revision": "71060dc2fd3496d3587ffaec6eafbf4c",
+    "url": "./static/media/flow-ecommerce.71060dc2.mp4"
+  },
+  {
+    "revision": "d003e260aa619ebc92cd7dd73e108e9b",
+    "url": "./static/media/flow.d003e260.PNG"
   },
   {
     "revision": "8542b367d97716ccbf31762e7b6d1272",
@@ -60,8 +64,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "./static/media/pacman.a603956a.mp4"
   },
   {
-    "revision": "be3b9a05f2893b1569a9825315888d76",
-    "url": "./static/media/resume-preview.be3b9a05.PNG"
+    "revision": "f1805fd41f3ed412a221fca86e3ec72f",
+    "url": "./static/media/resume-pic.f1805fd4.PNG"
+  },
+  {
+    "revision": "d1ded8c45053881bf0fa154d1e25329c",
+    "url": "./static/media/resume.d1ded8c4.docx"
   },
   {
     "revision": "7255c36c48f6d57b8fca8cff67d32fcb",
